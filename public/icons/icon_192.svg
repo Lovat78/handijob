@@ -1,0 +1,20 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="96" cy="96" r="96" fill="#2563eb"/>
+  
+  <!-- Letter H -->
+  <path d="M72 60v72M120 60v72M72 96h48" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Accessibility symbol -->
+  <circle cx="144" cy="48" r="12" fill="#f97316"/>
+  <path d="M144 66c-6 0-12 4-12 10v16h6v-16c0-3 3-4 6-4s6 1 6 4v16h6V76c0-6-6-10-12-10z" fill="#f97316"/>
+  
+  <!-- Subtle gradient overlay -->
+  <defs>
+    <radialGradient id="shine" cx="0.3" cy="0.3" r="0.8">
+      <stop offset="0%" stop-color="white" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="96" cy="96" r="96" fill="url(#shine)"/>
+</svg>

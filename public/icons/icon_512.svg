@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners for modern look -->
+  <rect width="512" height="512" rx="76" fill="#2563eb"/>
+  
+  <!-- Main H letter -->
+  <path d="M192 160v192M320 160v192M192 256h128" stroke="white" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Accessibility symbol -->
+  <circle cx="384" cy="128" r="24" fill="#f97316"/>
+  <path d="M384 176c-13 0-24 9-24 20v32h12v-32c0-6 6-8 12-8s12 2 12 8v32h12v-32c0-11-11-20-24-20z" fill="#f97316"/>
+  
+  <!-- Jobs/briefcase icon -->
+  <rect x="128" y="368" width="48" height="32" rx="4" stroke="white" stroke-width="8" fill="none"/>
+  <path d="M144 368v-8c0-4 4-8 8-8h8c4 0 8 4 8 8v8" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Modern gradient overlay -->
+  <defs>
+    <radialGradient id="modernShine" cx="0.25" cy="0.25" r="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="76" fill="url(#modernShine)"/>
+</svg>

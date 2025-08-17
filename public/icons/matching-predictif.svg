@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Matching Prédictif Icon -->
+  <circle cx="12" cy="12" r="10"/>
+  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+  <circle cx="12" cy="12" r="3" fill="currentColor"/>
+  <!-- Prédiction arrows -->
+  <path d="m8 8 2 2-2 2" stroke-width="1.5" opacity="0.7"/>
+  <path d="m16 8-2 2 2 2" stroke-width="1.5" opacity="0.7"/>
+  <!-- Percentage -->
+  <text x="12" y="16" text-anchor="middle" font-size="6" fill="currentColor" font-weight="bold">95%</text>
+</svg>

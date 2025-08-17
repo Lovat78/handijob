@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Accessibility Universal Icon -->
+  <circle cx="12" cy="12" r="10"/>
+  <!-- Wheelchair symbol stylized -->
+  <circle cx="10" cy="8" r="1.5" fill="currentColor"/>
+  <path d="M8 11h4l2 5"/>
+  <circle cx="10" cy="17" r="2"/>
+  <path d="M12 11v3"/>
+  <!-- Support arms -->
+  <path d="M14 11h2"/>
+  <path d="M14 16h2"/>
+  <!-- Inclusive design elements -->
+  <path d="M6 6l2 2" opacity="0.5"/>
+  <path d="M16 6l2 2" opacity="0.5"/>
+</svg>
